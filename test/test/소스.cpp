@@ -9,5 +9,6 @@ int main() {
 	int a = 3, b = 4;
 	cout << a + b;
 	char a = 'a';
+	char b = 'b';
 
 }
