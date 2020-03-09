@@ -10,5 +10,6 @@ int main() {
 	cout << a + b;
 	char a = 'a';
 	char b = 'b';
+	char c = 'c';
 
 }
